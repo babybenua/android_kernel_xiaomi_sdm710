@@ -1,1 +1,3 @@
 ../sdm670-perf_defconfig
+../xiaomi/sdm710-common.config
+../xiaomi/grus.config
